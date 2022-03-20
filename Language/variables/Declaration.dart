@@ -5,6 +5,8 @@ void main() {
   var flybyObjects = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
   var image = {
     'tags': ['satrun'],
-    'url': './assets/img/ANSI_ISO_C++_WP.jpg'
+    'url': '/assets/img/ANSI_ISO_C++_WP.jpg'
   };
+
+  print(image);
 }
